@@ -1,0 +1,3 @@
+# Known keylogger file hashes (SHA256)
+# Add one hash per line
+# This file can be empty for demonstration
